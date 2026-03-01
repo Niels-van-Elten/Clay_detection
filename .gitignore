@@ -1,1 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
 
+# VS Code
+.vscode/
+
+# Outputs and runs
+runs/
+output_images/
+output_masks/
+output_features/
+
+# Inputs and data (keep images local unless you want to sync them)
+input_images/
+data/
